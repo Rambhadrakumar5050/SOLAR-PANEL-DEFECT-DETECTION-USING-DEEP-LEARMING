@@ -1,0 +1,2 @@
+# SOLAR-PANEL-DEFECT-DETECTION-USING-DEEP-LEARMING
+This is my first AI project...!
