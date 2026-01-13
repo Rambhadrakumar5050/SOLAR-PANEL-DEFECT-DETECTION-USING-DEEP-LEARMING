@@ -1,3 +1,6 @@
+# SOLAR-PANEL-DEFECT-DETECTION-USING-DEEP-LEARMING
+This is my first AI project...!
+
 # Solar Panel Defect Detection Using Deep Learning
 
 This repository contains the implementation of our academic project **“Solar Panel Defect Detection Using Deep Learning”**, developed as part of the CSE curriculum at **IIIT Vadodara**.
@@ -96,5 +99,5 @@ Ensemble models consistently outperformed individual models.
 
 ---
 
-## 📁 Repository Structure
+
 
