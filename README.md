@@ -1,13 +1,13 @@
 
 # SOLAR-PANEL-DEFECT-DETECTION-USING-DEEP-LEARMING
-This repository contains the implementation of our academic project **“Solar Panel Defect Detection Using Deep Learning”**, developed as part of the CSE curriculum at **IIIT Vadodara**.
+This repository contains the implementation of our academic  Design project **“Solar Panel Defect Detection Using Deep Learning”**, developed as part of the CSE curriculum at **IIIT Vadodara**.
 
 The project uses **Convolutional Neural Networks (CNNs)** and **transfer learning** to detect and classify defects in solar panel images.
 
 ---
 
 ## 👨‍🎓 Authors
-- Badabagni Rohini (202311019)
+- Badabagni Rohini  (202311019)
 - Chintha Punyamurthy (202311023)
 - Chitikela Rambhadra Kumar (202311024)
 
